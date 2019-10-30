@@ -1,0 +1,26 @@
+{
+  "name": "Mrs Joan Smith",
+  "comments": "Seems trustworthy.",
+  "loanInfo": {
+    "amount": 10000.00,
+    "startDate": "2018-01-15",
+    "endDate": "2023-01-15"
+  },
+  "jobs": [
+    {
+      "title": "Freelance Developer",
+      "annualIncome": 18000,
+      "yearsActive": 3
+    },
+    {
+      "title": "Part Time Developer",
+      "annualIncome": 40000,
+      "yearsActive": 8
+    },
+    {
+      "title": "Pluralsight Author",
+      "annualIncome": 13000,
+      "yearsActive": 1
+    }
+  ]
+}

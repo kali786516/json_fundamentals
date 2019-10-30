@@ -1,0 +1,14 @@
+Request for a Bank Loan
+    name of the customer
+    purpose of the loan
+    details about the loan
+    list of jobs/income
+
+Details:
+    amount
+    start and end dates
+
+Jobs:
+    title of the job
+    income
+    number of years actively worked
